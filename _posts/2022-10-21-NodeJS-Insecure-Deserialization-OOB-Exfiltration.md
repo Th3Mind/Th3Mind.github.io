@@ -1,4 +1,4 @@
-## NodeJS Insecure Deserialization Out-Of-Band Exploitation
+## NodeJS Insecure Deserialization Out-Of-Band Exfiltration
 
 ### Introduction
 
